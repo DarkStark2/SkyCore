@@ -1,0 +1,7 @@
+name: SkyCore
+main: com.skyspace.skycore.SkyCore
+version: ${version}
+api-version: 1.21
+author: SkySpace
+description: Core library for all SkySpace plugins.
+load: STARTUP
